@@ -37,10 +37,11 @@ namespace ViewFile
             // 
             // locationTextBox
             // 
-            this.locationTextBox.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left)
-                        | System.Windows.Forms.AnchorStyles.Right)));
+            this.locationTextBox.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
             this.locationTextBox.Location = new System.Drawing.Point(70, 12);
             this.locationTextBox.Name = "locationTextBox";
+            this.locationTextBox.ReadOnly = true;
             this.locationTextBox.Size = new System.Drawing.Size(305, 20);
             this.locationTextBox.TabIndex = 0;
             // 
@@ -55,9 +56,9 @@ namespace ViewFile
             // 
             // displayTextBox
             // 
-            this.displayTextBox.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom)
-                        | System.Windows.Forms.AnchorStyles.Left)
-                        | System.Windows.Forms.AnchorStyles.Right)));
+            this.displayTextBox.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
             this.displayTextBox.Location = new System.Drawing.Point(12, 38);
             this.displayTextBox.Multiline = true;
             this.displayTextBox.Name = "displayTextBox";
