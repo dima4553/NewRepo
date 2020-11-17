@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30711.63
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SequentialCollections", "SequentialCollections.csproj", "{EC93C3FA-C9DD-4860-B0C4-6566D5B2A890}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EC93C3FA-C9DD-4860-B0C4-6566D5B2A890}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC93C3FA-C9DD-4860-B0C4-6566D5B2A890}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC93C3FA-C9DD-4860-B0C4-6566D5B2A890}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC93C3FA-C9DD-4860-B0C4-6566D5B2A890}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D9EFA32D-8405-4696-A287-CE0B2A56AC64}
+	EndGlobalSection
+EndGlobal
