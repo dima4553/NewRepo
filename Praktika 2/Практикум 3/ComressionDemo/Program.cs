@@ -12,7 +12,6 @@ namespace ComressionDemo
 
         //static void UncompressFile(string inFileName, string outFileName)
         //{
-
         //}
 
         static void Main(string[] args)
