@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30711.63
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Praktika 6", "Praktika 6.csproj", "{8E6EDFBD-1C0B-4026-8BE1-447FCB053764}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{5B6167EE-B56F-4118-B66E-5CCD9B620EC2}"
+	ProjectSection(SolutionItems) = preProject
+		Class1.cs = Class1.cs
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8E6EDFBD-1C0B-4026-8BE1-447FCB053764}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E6EDFBD-1C0B-4026-8BE1-447FCB053764}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E6EDFBD-1C0B-4026-8BE1-447FCB053764}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E6EDFBD-1C0B-4026-8BE1-447FCB053764}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7E232D9A-582B-4DEF-947A-3956794CB6CD}
+	EndGlobalSection
+EndGlobal
